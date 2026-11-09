@@ -1,0 +1,100 @@
+date,type,country,state,location,activity,sex,fatality,time,species,month,month_name,severity,incident_status,geocode_input,geo_precision,lat,lon
+2026-09-14,Unprovoked,BAHAMAS,BIMINI ISLANDS,BIMINI ISLAND,Swimming Activities,F,Not Fatal,Day,Unidentified Shark,9.0,Sep,Moderate,Bite Injury,BIMINI ISLAND,site,25.7333,-79.2667
+2026-06-23,Unprovoked,BAHAMAS,EXUMA ISLANDS,EXHUMA CAYS,Swimming Activities,M,Not Fatal,Day,Unidentified Shark,6.0,Jun,Unknown,Bite Injury,EXHUMA CAYS,site,24.1667,-76.4167
+2026-03-26,Unprovoked,BAHAMAS,ANDROS ISLANDS,FRESH CREEK,Swimming Activities,F,Not Fatal,Day,Unidentified Shark,3.0,Mar,Severe,Bite Injury,FRESH CREEK,site,24.85,-77.8
+2025-08-17,Unprovoked,BAHAMAS,BERRY ISLANDS,GRAND BAHAMA ISLAND,Spearfishing,M,Not Fatal,Day,Unidentified Shark,8.0,Aug,Severe,Bite Injury,NORTH OF GRAND BAHAMA NEAR FREEPORT,site,26.53333,-78.7
+2025-07-15,Unprovoked,BAHAMAS,ABACO ISLANDS,SPANISH CAY,Spearfishing,M,Not Fatal,Day,Bull Shark,7.0,Jul,Moderate,Bite Injury,SPANISH CAY,site,26.9492947,-77.5424165
+2025-04-09,Unprovoked,BAHAMAS,ABACO ISLANDS,GREEN TURTLE CAY,Spearfishing,M,Not Fatal,Day,Reef Shark,4.0,Apr,Moderate,Bite Injury,GREEN TURTLE CAY,site,26.7666636,-77.3166654
+2025-02-10,Unprovoked,BAHAMAS,BIMINI ISLANDS,BIMINI BAY,Swimming Activities,F,Not Fatal,Day,Bull Shark,2.0,Feb,Moderate,Bite Injury,BIMINI BAY,site,25.73,-79.28
+2025-02-10,Unprovoked,BAHAMAS,BIMINI ISLANDS,BIMINI BAY,Swimming Activities,F,Not Fatal,Day,Bull Shark,2.0,Feb,Severe,Bite Injury,BIMINI BAY,site,25.73,-79.28
+2024-04-26,Unprovoked,BAHAMAS,LONG ISLAND,FLYING FISH MARINA,Falling/Jumping Accident,M,Not Fatal,Night,Reef Shark,4.0,Apr,Moderate,Bite Injury,FLYING FISH MARINA,site,23.09,-74.95
+2024-01-15,Unprovoked,BAHAMAS,PARADISE ISLAND,PARADISE ISLAND RESORT,Swimming Activities,M,Not Fatal,Day,Unidentified Shark,1.0,Jan,Moderate,Bite Injury,PARADISE ISLAND RESORT,site,25.0917,-77.3167
+2023-12-04,Unprovoked,BAHAMAS,NEW PROVIDENCE ISLAND,SANDALS RESORT,Surfing,F,Fatal,Day,Unidentified Shark,12.0,Dec,Fatal,Bite Injury,SANDALS RESORT,site,25.0833,-77.3333
+2023-11-21,Unprovoked,BAHAMAS,GRAND BAHAMA ISLAND,TIGER BEACH,Diving Activities,F,Fatal,Day,Unidentified Shark,11.0,Nov,Fatal,Bite Injury,TIGER BEACH,site,26.75,-78.98300171
+2023-08-21,Unprovoked,BAHAMAS,NEW PROVIDENCE ISLAND,SAUNDERS BEACH,Nan,M,Fatal,Day,Unidentified Shark,8.0,Aug,Moderate,Post-Mortem/Scavenging,"SAUNDERS BEACH, NASSAU",site,25.0667,-77.35
+2023-06-07,Unprovoked,BAHAMAS,GRAND BAHAMA ISLAND,SHARK JUNCTION,Diving Activities,F,Not Fatal,Day,Reef Shark,6.0,Jun,Severe,Bite Injury,SHARK JUNCTION,site,26.7,-79.05
+2023-05-24,Unprovoked,BAHAMAS,NEW PROVIDENCE ISLAND,ATHOL ISLAND,Falling/Jumping Accident,M,Fatal,Night,Unidentified Shark,5.0,May,Fatal,Bite Injury,ATHOL ISLAND,site,25.083333,-77.2666656
+2022-10-28,Unprovoked,BAHAMAS,CAT ISLAND,CAT ISLAND,Diving Activities,M,Not Fatal,Day,Unidentified Shark,10.0,Oct,Moderate,Bite Injury,CAT ISLAND,site,24.335,-75.4575
+2022-09-06,Unprovoked,BAHAMAS,BERRY ISLANDS,GREEN CAY,Snorkeling,F,Fatal,Day,Bull Shark,9.0,Sep,Fatal,Bite Injury,GREEN CAY,site,25.88,-77.75
+2022-02-21,Unprovoked,BAHAMAS,GRAND BAHAMA ISLAND,TIGER BEACH,Diving Activities,M,Not Fatal,Day,Unidentified Shark,2.0,Feb,Moderate,Bite Injury,TIGER BEACH,site,26.75,-78.98300171
+2020-10-30,Unprovoked,BAHAMAS,GRAND BAHAMA ISLAND,EAST END POINT,Spearfishing,M,Not Fatal,Day,Reef Shark,10.0,Oct,Moderate,Bite Injury,EAST END POINT,site,26.55,-77.0
+2020-07-23,Unprovoked,BAHAMAS,ABACO ISLANDS,SPANISH CAY,Spearfishing,M,Not Fatal,Day,Reef Shark,7.0,Jul,Moderate,Bite Injury,SPANISH CAY,site,26.9492947,-77.5424165
+2020-06-20,Unprovoked,BAHAMAS,EXUMA ISLANDS,"PIG BEACH, PIG ISLAND",Nan,NAN,Not Fatal,Day,Unidentified Shark,6.0,Jun,Unknown,Bite Injury,"PIG BEACH, PIG ISLAND",site,24.2,-76.45
+2020-05-31,Unprovoked,BAHAMAS,ABACO ISLANDS,NONAME CAY,Spearfishing,M,Not Fatal,Day,Bull Shark,5.0,May,Moderate,Bite Injury,ABACO ISLANDS,island,26.4666648,-77.083333
+2020-01-30,Provoked,BAHAMAS,EXUMA ISLANDS,NAN,Swimming Activities,F,Not Fatal,Day,Unidentified Shark,1.0,Jan,Minor,Bite Injury,EXUMA ISLANDS,island,23.619,-75.97
+2019-07-04,Unprovoked,BAHAMAS,ABACO ISLANDS,GREAT GUANA CAY,Snorkeling,M,Not Fatal,Day,Unidentified Shark,7.0,Jul,Unknown,Bite Injury,GREAT GUANA CAY,site,26.69,-77.15
+2019-06-26,Unprovoked,BAHAMAS,NEW PROVIDENCE ISLAND,ROSE ISLAND,Snorkeling,F,Fatal,Day,Unidentified Shark,6.0,Jun,Fatal,Bite Injury,ROSE ISLAND,site,25.0999996,-77.2333324
+2019-06-21,Unprovoked,BAHAMAS,ABACO ISLANDS,NAN,Spearfishing,M,Not Fatal,Day,Unidentified Shark,6.0,Jun,Moderate,Bite Injury,ABACO ISLANDS,island,26.4666648,-77.083333
+2019-06-17,Unprovoked,BAHAMAS,WELL CAY,WELLS CAY,Snorkeling,M,Not Fatal,Day,Unidentified Shark,6.0,Jun,Moderate,Bite Injury,WELLS CAY,site,24.1667,-76.6
+2018-11-09,Unprovoked,BAHAMAS,EXUMA ISLANDS,COMPASS CAY,Swimming Activities,M,Not Fatal,Day,Nurse Shark,11.0,Nov,Moderate,Bite Injury,COMPASS CAY,site,24.26123,-76.51305
+2018-09-23,Unprovoked,BAHAMAS,ABACO ISLANDS,TREASURE CAY,Spearfishing,F,Not Fatal,Day,Blacktip Shark,9.0,Sep,Moderate,Bite Injury,TREASURE CAY,site,26.75,-77.1
+2018-08-20,Unprovoked,BAHAMAS,ABACO ISLANDS,CARTER'S CAY,Spearfishing,M,Not Fatal,Day,Reef Shark,8.0,Aug,Moderate,Bite Injury,CARTERS CAY,site,27.07809,-77.98674
+2018-08-15,Unprovoked,BAHAMAS,ABACO ISLANDS,"COCO BAY, GREEN TURTLE CAY",Swimming Activities,F,Not Fatal,Day,Nurse Shark,8.0,Aug,Moderate,Bite Injury,GREEN TURTLE CAY,site,26.7666636,-77.3166654
+2018-07-09,Unprovoked,BAHAMAS,EXUMA ISLANDS,STANIEL CAY,Swimming Activities,F,Not Fatal,Day,Nurse Shark,7.0,Jul,Moderate,Bite Injury,STANIEL CAY,site,24.14,-76.44
+2018-04-14,Unprovoked,BAHAMAS,NEW PROVIDENCE ISLAND,NIRVANA BEACH,Surfing,M,Not Fatal,Day,Tiger Shark,4.0,Apr,Moderate,"Interaction, No Injury",NIRVANA BEACH,site,25.063498,-77.48856
+2018-04-05,Unprovoked,BAHAMAS,BIMINI ISLANDS,BIMINI,Swimming Activities,M,Not Fatal,Day,Bull Shark,4.0,Apr,Moderate,Bite Injury,BIMINI,site,25.727,-79.298
+2017-07-27,Unprovoked,BAHAMAS,NEW PROVIDENCE ISLAND,ROSE ISLAND,Snorkeling,F,Not Fatal,Day,Unidentified Shark,7.0,Jul,Moderate,Bite Injury,ROSE ISLAND,site,25.0999996,-77.2333324
+2017-07-26,Unprovoked,BAHAMAS,GRAND BAHAMA ISLAND,NAN,Spearfishing,M,Not Fatal,Day,Unidentified Shark,7.0,Jul,Severe,Bite Injury,GRAND BAHAMA ISLAND,island,26.6333,-78.4
+2017-06-02,Unprovoked,BAHAMAS,NEW PROVIDENCE ISLAND,ATHOL ISLAND,Snorkeling,F,Not Fatal,Day,Tiger Shark,6.0,Jun,Severe,Bite Injury,ATHOL ISLAND,site,25.083333,-77.2666656
+2017-03-09,Unprovoked,BAHAMAS,EXUMA ISLANDS,GREAT EXUMA,Handling Catch,M,Not Fatal,Day,Lemon Shark,3.0,Mar,Moderate,Bite Injury,GREAT EXUMA,site,23.5,-75.8333
+2017-03-01,Unprovoked,BAHAMAS,EXUMA ISLANDS,COMPASS CAY,Swimming Activities,F,Not Fatal,Day,Nurse Shark,3.0,Mar,Moderate,Bite Injury,COMPASS CAY,site,24.26123,-76.51305
+2017-02-01,Unprovoked,BAHAMAS,BIMINI ISLANDS,NAN,Diving Activities,M,Not Fatal,Day,Reef Shark,2.0,Feb,Moderate,Bite Injury,BIMINI ISLANDS,island,25.7333304,-79.249999
+2016-08-07,Unprovoked,BAHAMAS,NEW PROVIDENCE ISLAND,NASSAU,Snorkeling,M,Not Fatal,Day,Unidentified Shark,8.0,Aug,Moderate,Bite Injury,NASSAU,site,25.059999,-77.345001
+2016-07-23,Unprovoked,BAHAMAS,ABACO ISLANDS,GREEN TURTLE CAY,Spearfishing,M,Not Fatal,Day,Bull Shark,7.0,Jul,Moderate,Bite Injury,GREEN TURTLE CAY,site,26.7666636,-77.3166654
+2016-07-14,Unprovoked,BAHAMAS,GRAND BAHAMA ISLAND,TIGER BEACH,Diving Activities,M,Not Fatal,Day,Lemon Shark,7.0,Jul,Unknown,Bite Injury,TIGER BEACH,site,26.75,-78.98300171
+2015-12-11,Unprovoked,BAHAMAS,ANDROS ISLANDS,OFF ANDROS ISLAND,Fishing Activities,M,Not Fatal,Day,Bull Shark,12.0,Dec,Moderate,Bite Injury,OFF ANDROS ISLAND,site,24.7,-77.8
+2015-07-04,Unprovoked,BAHAMAS,GRAND BAHAMA ISLAND,"PORT LUCAYA, FREEPORT",Spearfishing,F,Not Fatal,Day,Unidentified Shark,7.0,Jul,Moderate,Bite Injury,"PORT LUCAYA, FREEPORT",site,26.513953,-78.642318
+2015-01-06,Unprovoked,BAHAMAS,ABACO ISLANDS,"TAHITI BEACH, ELBOW CAY",Snorkeling,F,Not Fatal,Day,White Shark,1.0,Jan,Severe,Bite Injury,TAHITI BEACH,site,26.500466,-76.984501
+2014-07-13,Unprovoked,BAHAMAS,GRAND BAHAMA ISLAND,TIGER BEACH,Diving Activities,M,Fatal,Day,Unidentified Shark,7.0,Jul,Unknown,Bite Injury,TIGER BEACH,site,26.75,-78.98300171
+2014-06-25,Unprovoked,BAHAMAS,ABACO ISLANDS,NAN,Spearfishing,M,Not Fatal,Day,Reef Shark,6.0,Jun,Moderate,"Interaction, No Injury",ABACO ISLANDS,island,26.4666648,-77.083333
+2013-11-10,Provoked,BAHAMAS,ELEUTHERA ISLAND,OFF CAPE ELEUTHERA,Fishing Activities,M,Not Fatal,Day,Unidentified Shark,11.0,Nov,Moderate,Bite Injury,OFF CAPE ELEUTHERA,site,24.8333,-76.3
+2013-08-31,Unprovoked,BAHAMAS,ELEUTHERA ISLAND,FREETOWN BEACH,Spearfishing,M,Not Fatal,Day,Blacktip Shark,8.0,Aug,Moderate,Bite Injury,FREETOWN BEACH,site,24.77606,-76.280627
+2013-07-28,Unprovoked,BAHAMAS,ABACO ISLANDS,SCOTLAND CAY,Spearfishing,M,Not Fatal,Day,Unidentified Shark,7.0,Jul,Moderate,Bite Injury,SCOTLAND CAY,site,26.83,-77.03
+2013-07-28,Unprovoked,BAHAMAS,EXUMA ISLANDS,COMPASS CAY,Handling Catch,M,Not Fatal,Day,Nurse Shark,7.0,Jul,Moderate,Bite Injury,COMPASS CAY,site,24.26123,-76.51305
+2013-07-28,Unprovoked,BAHAMAS,ABACO ISLANDS,GRAND CAY,Diving Activities,M,Not Fatal,Day,Unidentified Shark,7.0,Jul,Moderate,Bite Injury,GRAND CAY,site,27.22917,-78.33056
+2013-03-21,Unprovoked,BAHAMAS,ELEUTHERA ISLAND,SAVANNAH SOUND,Fishing Activities,M,Not Fatal,Day,Unidentified Shark,3.0,Mar,Moderate,Bite Injury,SAVANNAH SOUND,site,24.67,-76.28
+2012-07-07,Unprovoked,BAHAMAS,ELEUTHERA ISLAND,NAN,Spearfishing,M,Not Fatal,Day,Unidentified Shark,7.0,Jul,Moderate,Bite Injury,ELEUTHERA ISLAND,island,25.4667,-76.6833
+2012-01-22,Unprovoked,BAHAMAS,CAT ISLAND,CAT ISLAND,Underwater Film Shooting,M,Not Fatal,Day,Tiger Shark,1.0,Jan,Moderate,"Interaction, No Injury",CAT ISLAND,site,24.335,-75.4575
+2011-07-13,Unprovoked,BAHAMAS,GRAND BAHAMA ISLAND,OFF LUCAYA,Diving Activities,M,Not Fatal,Day,Unidentified Shark,7.0,Jul,Moderate,Bite Injury,OFF LUCAYA,site,26.513953,-78.642318
+2011-01-26,Unprovoked,BAHAMAS,GRAND BAHAMA ISLAND,TIGER BEACH,Diving Activities,M,Not Fatal,Day,Reef Shark,1.0,Jan,Moderate,Bite Injury,TIGER BEACH,site,26.75,-78.98300171
+2010-10-02,Unprovoked,BAHAMAS,EXUMA ISLANDS,NAN,Snorkeling,M,Not Fatal,Day,Lemon Shark,10.0,Oct,Moderate,Bite Injury,EXUMA ISLANDS,island,23.619,-75.97
+2010-10-02,Unprovoked,BAHAMAS,ABACO ISLANDS,ELBOW CAY,Surfing,F,Not Fatal,Day,Lemon Shark,10.0,Oct,Moderate,Bite Injury,ELBOW CAY,site,26.524575,-76.964496
+2010-08-29,Unprovoked,BAHAMAS,NEW PROVIDENCE ISLAND,JAWS BEACH,On Boat Activities,M,Fatal,Day,Unidentified Shark,8.0,Aug,Fatal,Bite Injury,OFF JAWS BEACH,site,25.018675,-77.545375
+2019-07-31,Unprovoked,BAHAMAS,ABACO ISLANDS,SPANISH CAY,Spearfishing,M,Not Fatal,Day,Bull Shark,7.0,Jul,Moderate,Bite Injury,SPANISH CAY,site,26.9492947,-77.5424165
+2019-03-06,Provoked,BAHAMAS,EXUMA ISLANDS,NAN,Spearfishing,M,Not Fatal,Day,Unidentified Shark,3.0,Mar,Moderate,Bite Injury,EXUMA ISLANDS,island,23.619,-75.97
+2018-06-28,Unprovoked,BAHAMAS,ABACO ISLANDS,NAN,Spearfishing,M,Not Fatal,Day,Bull Shark,6.0,Jun,Moderate,Bite Injury,ABACO ISLANDS,island,26.4666648,-77.083333
+2018-05-24,Unprovoked,BAHAMAS,GRAND BAHAMA ISLAND,OFF WEST END,Disaster,M,Fatal,Day,Tiger Shark,5.0,May,Unknown,Post-Mortem/Scavenging,OFF WEST END,site,26.7,-78.97
+2018-02-24,Unprovoked,BAHAMAS,ANDROS ISLANDS,THE END OF THE MAP,Diving Activities,M,Fatal,Day,Bull Shark,2.0,Feb,Fatal,Bite Injury,"DIVE SITE KNOWN AS ""THE END OF THE MAP""",site,23.7167,-76.8167
+2017-09-28,Unprovoked,BAHAMAS,GRAND BAHAMA ISLAND,SWEETINGS CAY,Spearfishing,F,Not Fatal,Day,Reef Shark,9.0,Sep,Moderate,Bite Injury,SWEETINGS CAY,site,26.58,-77.25
+2017-07-10,Unprovoked,BAHAMAS,ABACO ISLANDS,ALLAN-PENSACOLA CAY,Spearfishing,F,Not Fatal,Day,Bull Shark,7.0,Jul,Moderate,Bite Injury,ALLAN-PENSACOLA CAY,site,27.05,-77.87
+2017-05-01,Provoked,BAHAMAS,BIMINI ISLANDS,NAN,Biology Research Activities,F,Not Fatal,Day,Lemon Shark,5.0,May,Moderate,Bite Injury,BIMINI ISLANDS,island,25.7333304,-79.249999
+2016-10-01,Unprovoked,BAHAMAS,NEW PROVIDENCE ISLAND,NASSAU,Underwater Film Shooting,F,Not Fatal,Day,Unidentified Shark,10.0,Oct,Moderate,Bite Injury,NASSAU,site,25.059999,-77.345001
+2016-06-24,Unprovoked,BAHAMAS,ANDROS ISLANDS,MANGROVE CAY,Spearfishing,M,Not Fatal,Day,Unidentified Shark,6.0,Jun,Severe,Bite Injury,MANGROVE CAY,site,24.280285,-77.668635
+2016-01-11,Provoked,BAHAMAS,GRAND BAHAMA ISLAND,SANDY CAY,Spearfishing,M,Not Fatal,Day,Unidentified Shark,1.0,Jan,Moderate,"Interaction, No Injury",SANDY CAY,site,26.55,-77.35
+2015-10-03,Unprovoked,BAHAMAS,ABACO ISLANDS,GRAND CAY,Diving Activities,M,Not Fatal,Day,Unidentified Shark,10.0,Oct,Moderate,Bite Injury,GRAND CAY,site,27.22917,-78.33056
+2014-05-18,Provoked,BAHAMAS,ABACO ISLANDS,GREEN TURTLE CAY,Spearfishing,M,Not Fatal,Day,Reef Shark,5.0,May,Moderate,Bite Injury,GREEN TURTLE CAY,site,26.7666636,-77.3166654
+2013-07-10,Unprovoked,BAHAMAS,ABACO ISLANDS,BAKERS BAY,Spearfishing,M,Not Fatal,Day,Unidentified Shark,7.0,Jul,Moderate,Bite Injury,BAKERS BAY,site,26.68632,-77.1478646
+2013-07-04,Unprovoked,BAHAMAS,ABACO ISLANDS,WALKERS CAY,Spearfishing,M,Not Fatal,Day,Bull Shark,7.0,Jul,Moderate,Bite Injury,10 MILES WEST OF WALKER’S CAY,site,27.2546323148,-78.3901151062
+2012-04-09,Unprovoked,BAHAMAS,ABACO ISLANDS,WALKERS CAY,Swimming Activities,M,Not Fatal,Day,Bull Shark,4.0,Apr,Moderate,Bite Injury,WALKERS CAY,site,27.2546323148,-78.3901151062
+2011-08-31,Unprovoked,BAHAMAS,ABACO ISLANDS,NORTH OF GRAND CAY,Spearfishing,M,Not Fatal,Day,Bull Shark,8.0,Aug,Unknown,Bite Injury,GRAND CAY,site,27.22917,-78.33056
+2011-08-16,Unprovoked,BAHAMAS,GRAND BAHAMA ISLAND,HIGH ROCK,Spearfishing,M,Not Fatal,Day,Bull Shark,8.0,Aug,Moderate,Bite Injury,HIGH ROCK,site,26.53,-77.28
+2011-08-04,Unprovoked,BAHAMAS,GRAND BAHAMA ISLAND,FREEPORT,Swimming Activities,M,Not Fatal,Day,Unidentified Shark,8.0,Aug,Severe,Bite Injury,FREEPORT,site,26.513953,-78.642318
+1999-08-05,Unprovoked,BAHAMAS,ABACO ISLANDS,GRAND CAY,Spearfishing,M,Not Fatal,Day,Bull Shark,8.0,Aug,Moderate,Bite Injury,GRAND CAY,site,27.22917,-78.33056
+1998-08-15,Unprovoked,BAHAMAS,BERRY ISLANDS,AMBERGRIS CAY,Spearfishing,M,Not Fatal,Day,Reef Shark,8.0,Aug,Moderate,Bite Injury,AMBERGRIS CAY,site,25.17,-77.79
+1997-05-26,Unprovoked,BAHAMAS,ABACO ISLANDS,POWELL CAY,Spearfishing,M,Not Fatal,Day,Reef Shark,5.0,May,Moderate,Bite Injury,POWELL CAY,site,26.90746,-77.482639
+1997-05-17,Unprovoked,BAHAMAS,ABACO ISLANDS,WALKERS CAY,Spearfishing,M,Not Fatal,Day,Unidentified Shark,5.0,May,Moderate,Bite Injury,WALKERS CAY,site,27.2546323148,-78.3901151062
+1996-07-04,Unprovoked,BAHAMAS,BIMINI ISLANDS,NAN,Diving Activities,M,Not Fatal,Day,Unidentified Shark,7.0,Jul,Unknown,Bite Injury,BIMINI ISLANDS,island,25.7333304,-79.249999
+1994-06-24,Unprovoked,BAHAMAS,GRAND BAHAMA ISLAND,FREEPORT,Spearfishing,M,Not Fatal,Day,Unidentified Shark,6.0,Jun,Severe,Bite Injury,FREEPORT,site,26.513953,-78.642318
+1994-04-06,Unprovoked,BAHAMAS,RUM CAY ISLAND,RUM CAY,Fishing Activities,M,Not Fatal,Day,Unidentified Shark,4.0,Apr,Moderate,Bite Injury,RUM CAY,site,23.6667,-74.8333
+1993-08-21,Unprovoked,BAHAMAS,ABACO ISLANDS,MATINELLA REEF,Spearfishing,M,Not Fatal,Day,Blacktip Shark,8.0,Aug,Moderate,Bite Injury,WALKERS CAY,site,27.2546323148,-78.3901151062
+1992-08-29,Unprovoked,BAHAMAS,ABACO ISLANDS,DOUBLE BREASTED CAYS,Spearfishing,F,Not Fatal,Day,Blacktip Shark,8.0,Aug,Moderate,Bite Injury,DOUBLE BREASTED CAYS,site,27.17,-78.28
+1991-09-19,Unprovoked,BAHAMAS,BIMINI ISLANDS,BIMINI,Spearfishing,M,Fatal,Day,Unidentified Shark,9.0,Sep,Unknown,Bite Injury,BIMINI,site,25.727,-79.298
+1990-06-23,Unprovoked,BAHAMAS,BIMINI ISLANDS,BIMINI,Spearfishing,M,Not Fatal,Day,Unidentified Shark,6.0,Jun,Moderate,Bite Injury,BIMINI,site,25.727,-79.298
+1989-08-09,Unprovoked,BAHAMAS,EXUMA ISLANDS,HIGHBORN CAY,Spearfishing,F,Not Fatal,Day,Unidentified Shark,8.0,Aug,Severe,Bite Injury,HIGHBORN CAY,site,24.5833,-76.7167
+1987-07-09,Unprovoked,BAHAMAS,EXUMA ISLANDS,SAMPSON CAY,Snorkeling,M,Not Fatal,Day,Unidentified Shark,7.0,Jul,Moderate,Bite Injury,SAMPSON CAY,site,24.4833,-76.6
+1983-07-08,Unprovoked,BAHAMAS,ABACO ISLANDS,GREEN TURTLE CAY,Spearfishing,M,Not Fatal,Day,Unidentified Shark,7.0,Jul,Moderate,Bite Injury,GREEN TURTLE CAY,site,26.7666636,-77.3166654
+1983-06-22,Unprovoked,BAHAMAS,ABACO ISLANDS,SANDY POINT,Spearfishing,M,Fatal,Day,Unidentified Shark,6.0,Jun,Fatal,Bite Injury,OFF SANDY POINT,site,26.011241,-77.385071
+1983-06-15,Unprovoked,BAHAMAS,ABACO ISLANDS,CARTER CAY,Spearfishing,M,Not Fatal,Day,Blacktip Shark,6.0,Jun,Moderate,Bite Injury,CARTERS CAY,site,27.07809,-77.98674
+1983-06-01,Unprovoked,BAHAMAS,BERRY ISLANDS,WHALE CAY,Spearfishing,M,Not Fatal,Day,Reef Shark,6.0,Jun,Moderate,Bite Injury,WHALE CAY,site,23.9667,-76.3
+1982-06-26,Unprovoked,BAHAMAS,ANDROS ISLANDS,NORTH RAT CAY REEF,Spearfishing,M,Not Fatal,Day,Lemon Shark,6.0,Jun,Severe,Bite Injury,NORTH RAT CAY REEF,site,24.1667,-76.6667
+1981-08-07,Unprovoked,BAHAMAS,GRAND BAHAMA ISLAND,GINGERBREAD REEF,Snorkeling,M,Not Fatal,Day,Shortfin Mako Shark,8.0,Aug,Moderate,Bite Injury,LITTLE ISAAC ISLAND,site,26.028514,-79.089318
